@@ -1,0 +1,26 @@
+{
+    "name": "elizas-pride-themes",
+    "displayName": "Eliza's Pride Themes",
+    "description": "Themes based on various pride flags",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Trans (Pink)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/trans/trans-pink-color-theme.json"
+            },
+            {
+                "label": "Trans (Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/trans/trans-blue-color-theme.json"
+            }
+        ]
+    }
+}
