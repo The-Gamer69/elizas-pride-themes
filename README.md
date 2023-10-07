@@ -9,11 +9,11 @@ Feedback is welcome: https://github.com/The-Gamer69/elizas-pride-themes
 
 ### Trans (Pink)
 
-![Pink trans theme example](https://github.com/The-Gamer69/elizas-pride-themes/blob/main/images/trans-pink-example.png)
+![Pink trans theme example](./images/trans-pink-example.png)
 
 ### Trans (Blue)
 
-![Blue trans theme example](https://github.com/The-Gamer69/elizas-pride-themes/blob/main/images/trans-blue-example.png)
+![Blue trans theme example](./images/trans-blue-example.png)
 
 ## Installation
 
