@@ -2,7 +2,18 @@
     "name": "elizas-pride-themes",
     "displayName": "Eliza's Pride Themes",
     "description": "Themes based on various pride flags",
-    "version": "0.1.0",
+    "icon": "./images/icon.png",
+    "publisher": "ElizaMuss",
+    "license": "HIPPOCRATIC LICENSE (SEE LICENSE.md)",
+    "bugs": {
+        "url": "https://github.com/The-Gamer69/elizas-pride-themes/issues",
+        "email": "ElizaMuss@proton.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/The-Gamer69/elizas-pride-themes"
+    },
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.83.0"
     },

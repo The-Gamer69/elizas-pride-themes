@@ -4,7 +4,7 @@ All notable changes to the "trans-color-themes" extension will be documented in 
 
 ## [Unreleased]
 
-## [0.1.0] - 2023-10-
+## [0.1.0] - 2023-10-7
 
 -   Initial release
 

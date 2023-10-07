@@ -19,7 +19,7 @@ Feedback is welcome: https://github.com/The-Gamer69/elizas-pride-themes
 
 ### Automatic
 
-Go to the [VSCode Marketplace]() and click the install button on the top of the site. You should be prompted to open VSCode in order to install the extension.
+Go to the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ElizaMuss.elizas-pride-themes) and click the install button on the top of the site. You should be prompted to open VSCode in order to install the extension.
 
 ### Manual
 
