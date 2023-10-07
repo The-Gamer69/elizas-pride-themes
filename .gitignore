@@ -1,5 +1,5 @@
 .vscodeignore
 vsc-extension-quickstart.md
 .vscode
-elizas-pride-themes-0.1.1.vsix
+*.vsix
 package.json
