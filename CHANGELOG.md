@@ -1,8 +1,30 @@
 # Change Log
 
-All notable changes to the "trans-color-themes" extension will be documented in this file.
+All notable changes to the "elizas-pride-themes" extension will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project does not adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+-   Asexual theme
+-   General Pride theme
+-   Nebularomantic theme
+-   Omnisexual/romantic theme
+-   Lesbian theme
+-   Gynesexual theme
+
+## [0.2.0]
+
+### Added
+
+-   Aromantic theme
+-   Credited the source of the changelog format and specified Semantic Versioning
+
+### Fixed
+
+-   Better example images
+-   Corrected incorrect extention name in changelog
 
 ## [0.1.0] - 2023-10-7
 
