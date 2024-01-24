@@ -14,13 +14,13 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 -   Lesbian theme
 -   Gynesexual theme
 
-## [0.2.1] - 2024-19-1
+## [0.2.1] - 2024-23-1
 
 ### Added
 
 -   Instructions for manual installation on Windows systems
 
-## [0.2.0] - 2024-18-1
+## [0.2.0] - 2024-21-1
 
 ### Added
 
