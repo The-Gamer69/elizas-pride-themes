@@ -14,7 +14,13 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 -   Lesbian theme
 -   Gynesexual theme
 
-## [0.2.0]
+## [0.2.1] - 2024-23-1
+
+### Added
+
+-   Instructions for manual installation on Windows systems
+
+## [0.2.0] - 2024-21-1
 
 ### Added
 
@@ -24,7 +30,7 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 ### Fixed
 
 -   Better example images
--   Corrected incorrect extention name in changelog
+-   Corrected extention name in changelog
 
 ## [0.1.0] - 2023-10-7
 

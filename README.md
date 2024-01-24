@@ -3,7 +3,7 @@
 [![Hippocratic License HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/bds-bod-cl-eco-extr-ffd-law-media-mil-my-soc-sup-sv-tal.html)
 
 Color themes based on various pride flags that reperesent me, made in my personal style.\
-Feedback is welcome: https://github.com/The-Gamer69/elizas-pride-themes
+[Feedback is welcome!](https://github.com/The-Gamer69/elizas-pride-themes/issues)
 
 ## Examples
 
@@ -39,6 +39,6 @@ Go to the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemNa
 
 ### Manual
 
-If you really want to install this extention manually, you can clone the files from the [GitHub repository](https://github.com/The-Gamer69/elizas-pride-themes). After that, copy it into the `<user home>/.vscode/extensions` folder and restart VSCode.
+If you really want to install this extention manually, you can clone the files from the [GitHub repository](https://github.com/The-Gamer69/elizas-pride-themes). After that, copy it into `<user home>/.vscode/extensions` folder on Linux (or `<path you choose on install>\Microsoft VS Code\resources\app\extensions` on Windows) and restart VSCode.
 
 ### **Enjoy!**
