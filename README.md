@@ -31,7 +31,7 @@ Color themes based on various pride flags that reperesent me, made in my persona
 
 ![Aromantic theme example 3](./images/examples/aro/example3.png)
 
-### Aromantic
+### Asexual
 
 ![Asexual theme example 1](./images/examples/ace/example1.png)
 _I'll add the rest later; the tool I use to make the images isn't working and won't be for a while, but I wanted to go ahead and release this._
