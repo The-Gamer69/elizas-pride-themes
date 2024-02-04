@@ -36,6 +36,11 @@
                 "label": "Aromantic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/aromantic-color-theme.json"
+            },
+            {
+                "label": "Asexual",
+                "uiTheme": "vs-dark",
+                "path": "./themes/asexual-color-theme.json"
             }
         ]
     }

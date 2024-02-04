@@ -7,12 +7,22 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 
 ## [Unreleased]
 
--   Asexual theme
 -   General Pride theme
 -   Nebularomantic theme
 -   Omnisexual/romantic theme
 -   Lesbian theme
 -   Gynesexual theme
+
+## [0.3.0] - 2024-4-2
+
+### Added
+
+-   Asexual theme
+
+### Fixed
+
+-   Small transparency issue with merge editor backgrounds
+-   Inactive tab background color on aromantic theme
 
 ## [0.2.1] - 2024-23-1
 
