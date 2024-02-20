@@ -1,5 +1,7 @@
 # Eliza's Pride Themes
 
+<sup>All themes made with [themes.vscode.one](https://themes.vscode.one/)</sup>
+
 [![Hippocratic License HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/bds-bod-cl-eco-extr-ffd-law-media-mil-my-soc-sup-sv-tal.html)
 
 Color themes based on various pride flags that reperesent me, made in my personal style.\
