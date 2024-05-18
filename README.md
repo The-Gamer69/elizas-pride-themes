@@ -11,32 +11,19 @@ Color themes based on various pride flags that reperesent me, made in my persona
 
 ### Trans (Pink)
 
-![Pink trans theme example](./images/examples/trans/pink/example1.png)
-
-![Pink trans theme example](./images/examples/trans/pink/example2.png)
-
-![Pink trans theme example](./images/examples/trans/pink/example3.png)
+![Pink trans theme example](./images/examples/trans/pink-example.png)
 
 ### Trans (Blue)
 
-![Blue trans theme example 1](./images/examples/trans/blue/example1.png)
-
-![Blue trans theme example 2](./images/examples/trans/blue/example2.png)
-
-![Blue trans theme example 3](./images/examples/trans/blue/example3.png)
+![Blue trans theme example](./images/examples/trans/blue-example.png)
 
 ### Aromantic
 
-![Aromantic theme example 1](./images/examples/aro/example1.png)
-
-![Aromantic theme example 2](./images/examples/aro/example2.png)
-
-![Aromantic theme example 3](./images/examples/aro/example3.png)
+![Aromantic theme example](./images/examples/aro-example.png)
 
 ### Asexual
 
-![Asexual theme example 1](./images/examples/ace/example1.png)
-_I'll add the rest later; the tool I use to make the images isn't working and won't be for a while, but I wanted to go ahead and release this._
+![Asexual theme example](./images/examples/ace-example.png)
 
 ## Installation
 

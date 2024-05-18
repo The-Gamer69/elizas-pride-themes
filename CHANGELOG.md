@@ -13,6 +13,13 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 -   Lesbian theme
 -   Gynesexual theme
 
+## [0.3.3] - 2024-5-18
+
+### Fixed
+
+-   Example images (again)
+-   Compatibility issues on some VS Code versions
+
 ## [0.3.0] - 2024-4-2
 
 ### Added
