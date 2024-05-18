@@ -13,7 +13,7 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 -   Lesbian theme
 -   Gynesexual theme
 
-## [0.3.3] - 2024-5-18
+## [0.3.3] - 2024-18-5
 
 ### Fixed
 
