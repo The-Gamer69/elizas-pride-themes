@@ -7,11 +7,21 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 
 ## [Unreleased]
 
--   General Pride theme
 -   Nebularomantic theme
 -   Omnisexual/romantic theme
--   Lesbian theme
 -   Gynesexual theme
+
+## [0.4.0] - 2024-2-7
+
+### Added
+
+-   Lesbian theme
+-   Progress Pride theme
+
+### Fixed
+
+-   Tweaked wording of windows install path
+-   Improved syntax colors for all themes
 
 ## [0.3.3] - 2024-18-5
 

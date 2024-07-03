@@ -18,7 +18,7 @@
         "type": "git",
         "url": "https://github.com/The-Gamer69/elizas-pride-themes"
     },
-    "version": "0.3.6",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -46,6 +46,16 @@
                 "label": "Asexual",
                 "uiTheme": "vs-dark",
                 "path": "./themes/asexual-color-theme.json"
+            },
+            {
+                "label": "Lesbian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lesbian-color-theme.json"
+            },
+            {
+                "label": "Progress Pride",
+                "uiTheme": "vs-dark",
+                "path": "./themes/progress-color-theme.json"
             }
         ]
     }
