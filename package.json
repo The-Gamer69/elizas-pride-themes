@@ -12,13 +12,13 @@
     "qna": "false",
     "bugs": {
         "url": "https://github.com/The-Gamer69/elizas-pride-themes/issues",
-        "email": "ElizaMuss@proton.me"
+        "email": "thegamer69.density115@passinbox.com"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/The-Gamer69/elizas-pride-themes"
     },
-    "version": "0.4.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -56,6 +56,16 @@
                 "label": "Progress Pride",
                 "uiTheme": "vs-dark",
                 "path": "./themes/progress-color-theme.json"
+            },
+            {
+                "label": "Omnisexual",
+                "uiTheme": "vs-dark",
+                "path": "./themes/omni-color-theme.json"
+            },
+            {
+                "label": "Nebularomantic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebularomantic-color-theme.json"
             }
         ]
     }

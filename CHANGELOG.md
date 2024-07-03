@@ -7,9 +7,12 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 
 ## [Unreleased]
 
+## [1.0.0] - 2024-3-7
+
+### Added
+
+-   Omnisexual theme
 -   Nebularomantic theme
--   Omnisexual/romantic theme
--   Gynesexual theme
 
 ## [0.4.0] - 2024-2-7
 
