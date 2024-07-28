@@ -7,6 +7,12 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 
 ## [Unreleased]
 
+## [1.0.1] - 2024-28-7
+
+### Fixed
+
+-   Number syntax on Trans (Pink) theme
+
 ## [1.0.0] - 2024-3-7
 
 ### Added

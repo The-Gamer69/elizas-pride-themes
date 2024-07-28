@@ -18,7 +18,7 @@
         "type": "git",
         "url": "https://github.com/The-Gamer69/elizas-pride-themes"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.68.0"
     },
