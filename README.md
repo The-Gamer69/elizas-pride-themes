@@ -2,7 +2,7 @@
 
 <sup>All themes made with [themes.vscode.one](https://themes.vscode.one/)</sup>
 
-[![Hippocratic License HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-BOD-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SOC-SUP-SV-TAL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/bds-bod-cl-eco-extr-ffd-law-media-mil-my-soc-sup-sv-tal.html)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Color themes based on various pride flags, made in my personal style. If there is a specific flag that you would like to see a theme of, feel free to shoot me an email or open an issue on GitHub and I'd love to take a crack at it!\
 [Feedback is welcome!](https://github.com/The-Gamer69/elizas-pride-themes/issues)

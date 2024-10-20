@@ -1,5 +1,3 @@
-.vscodeignore
 vsc-extension-quickstart.md
 .vscode
 *.vsix
-package.json

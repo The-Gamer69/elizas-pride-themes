@@ -9,6 +9,12 @@ and this project does not adhere to [Semantic Versioning](https://semver.org/spe
 
 ## [1.0.2] - 2024-20-10
 
+### Added
+
+-   .vscodeignore file for optimization
+
+### Fixed
+
 -   Changed license to GNU General Public License because the Hippocratic License was dumb
 
 ## [1.0.1] - 2024-28-7
